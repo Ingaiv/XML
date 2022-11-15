@@ -1,0 +1,6 @@
+<xsd:element "film" ="Titanic"> 
+      <xsd:element "tv show" = "Lost" type="xsd:"/>
+      <xsd:element "food" ="hotdog" type="xsd:"/>
+      <xsd:element "season" ="Summer" type="xsd:"/>   
+      <xsd:element "country" ="Japan" type="xsd:"/>     
+</xsd:element>
