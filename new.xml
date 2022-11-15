@@ -1,6 +1,7 @@
 <xsd:element person ="Inga"> 
       <xsd:element age = "30" type="xsd:int"/>
       <xsd:element pets="3" type="xsd:int"/>
-      <xsd:element salary="1500" type="xsd:int"/>       
+      <xsd:element salary="1500" type="xsd:int"/>  
+</xsd:element>
 
 
