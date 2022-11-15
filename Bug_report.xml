@@ -1,0 +1,9 @@
+<bug>
+<id> 123</id>
+<developer>Olga</developer>
+<creation_time>1.2.2022</creation_time>
+<product>JTD</product>
+<component>UI</component>
+<resolution>fixed</resolution>
+<bug_severity>normal</bug_severity>
+<summary>[extract method] extracting return value results in compile error</summary>
